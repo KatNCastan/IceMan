@@ -3,16 +3,5 @@
   GameController.cpp
   GameWorld.cpp
   main.cpp
-  Compiling...
   Generating Code...
   IceMan.vcxproj -> C:\Users\Kat\source\repos\IceMan\Debug\IceMan.exe
-c:\users\kat\source\repos\iceman\iceman\actor.cpp(10): warning C26495: Variable 'Actor::m_state' is uninitialized. Always initialize a member variable (type.6).
-c:\users\kat\source\repos\iceman\iceman\actor.cpp(274): warning C6001: Using uninitialized memory 'sqX'.
-c:\users\kat\source\repos\iceman\iceman\actor.cpp(322): warning C26495: Variable 'Protester::m_numSquaresToMoveInCurrentDirection' is uninitialized. Always initialize a member variable (type.6).
-c:\users\kat\source\repos\iceman\iceman\studentworld.cpp(21): warning C26495: Variable 'StudentWorld::m_iceField' is uninitialized. Always initialize a member variable (type.6).
-c:\users\kat\source\repos\iceman\iceman\studentworld.cpp(212): warning C28020: The expression '0<=_Param_(1)&&_Param_(1)<=60-1' is not true at this call.
-c:\users\kat\source\repos\iceman\iceman\studentworld.cpp(212): warning C28020: The expression '0<=_Param_(1)&&_Param_(1)<=60-1' is not true at this call.
-c:\users\kat\source\repos\iceman\iceman\studentworld.cpp(213): warning C28020: The expression '0<=_Param_(1)&&_Param_(1)<=60-1' is not true at this call.
-c:\users\kat\source\repos\iceman\iceman\studentworld.cpp(213): warning C28020: The expression '0<=_Param_(1)&&_Param_(1)<=60-1' is not true at this call.
-c:\users\kat\source\repos\iceman\iceman\gamecontroller.h(86): warning C26495: Variable 'GameController::m_curIntraFrameTick' is uninitialized. Always initialize a member variable (type.6).
-c:\users\kat\source\repos\iceman\iceman\gamecontroller.cpp(486): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
