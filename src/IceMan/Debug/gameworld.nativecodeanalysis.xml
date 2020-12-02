@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_nextStateAfterPrompt' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_gameState' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_gw' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_singleStep' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_lastKeyHit' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_nextStateAfterAnimate' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_curIntraFrameTick' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\kat\source\repos\iceman\iceman</FILEPATH>
+      <FILENAME>gamecontroller.h</FILENAME>
+      <LINE>86</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'GameController::m_playerWon' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>GameController::{ctor}</FUNCTION>
+    <DECORATED>??0GameController@@QAE@XZ</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
