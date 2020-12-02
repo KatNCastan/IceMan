@@ -9,6 +9,9 @@ IceMan is a Dig Dug clone written in C++.  I programmed the enemy AI, level rand
 
 GAMEPLAY
 --------
+
+![Screenshot of IceMan gameplay](IceMan_screenshot.png "IceMan screenshot")
+
 Use the arrow keys (or 8426 or wasd) to move, the space bar to squirt, and the tab key to drop a gold nugget. Press the Z key to use the sonar. You can hit Escape to sacrifice a life and restart the current level. You can type q to quit the game prematurely. Hitting the f key pauses the game; hitting any key after that takes one action step, except that hitting the r key resumes regular play.
 
 In Iceman, the player has to dig underground tunnels through an oil field looking for oil. After the player has gathered all available oil within a particular field, the level is completed and the player advances to a new, more difficult oil field. The player starts out a new game with three lives and continues to play until all of his/her lives have been exhausted. There are multiple levels in Iceman, beginning with level 0, and each level has its own unique oil field configuration.
