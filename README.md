@@ -2,7 +2,7 @@
 
 ABOUT
 ------
-IceMan is a Dig Dug clone written in C++.  I programmed the enemy AI, level randomization, other game mechanics, characters, and objects. The engine, gameplay loop, animation, art, and controls were provided by Professor Russell.
+IceMan is a Dig Dug clone written in C++.  I programmed the enemy AI, level randomization, other game mechanics, characters, and objects. The engine, gameplay loop, animation, art, and controls were provided by Solomon Russell.
 
 
 GAMEPLAY
